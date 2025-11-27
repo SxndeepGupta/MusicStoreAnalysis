@@ -7,7 +7,7 @@ Author - Sandeep Gupta
 
 
 ## Database and Tools
-* Postgre SQL
+* MySQL workbench
 * PgAdmin4
 
 Schema- Music Store Database  
